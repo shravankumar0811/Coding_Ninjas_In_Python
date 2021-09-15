@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Coding Ninjas Assignment Solutions in Python
 
 You can use the [editor on GitHub](https://github.com/shravankumar0811/Coding_Ninjas_In_Python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
