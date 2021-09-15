@@ -1,37 +1,13 @@
 ## Welcome to Coding Ninjas Assignment Solutions in Python
+This will have all the solutions to the Introduction to python course's problems by Coding ninjas. Star the repo if you like it.
 
-You can use the [editor on GitHub](https://github.com/shravankumar0811/Coding_Ninjas_In_Python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+This repository includes all the practice problems and assignments which I’ve solved during the Intro Course of Python Programming taught by Coding Ninjas. If you’re unable to view the patterns properly in Jupyter notebook then double-click the markdown cell to enlarge.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Topics discussed are:- 1) Flow-Chart 2) Introduction to Python 3) Conditionals and Loops 4) Patterns 1 5) Patterns 2 6) More on Loops 7) Functions 8) Arrays and Lists 9) Searching And Sorting 10) Strings 11) Two Dimensional Lists 12) Tupples, Dictionary And Sets
 
-```markdown
-Syntax highlighted code block
+Register the course with the following referral link to get a discount of ₹1,000/-
+Referral Link: https://classroom.codingninjas.com/app/invite/ZEUJL
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shravankumar0811/Coding_Ninjas_In_Python/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+P.S: Don’t forget to sign up with a new ID to avail discount
