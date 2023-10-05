@@ -1,0 +1,40 @@
+def writeAsYouSpeak(n):
+  """
+  Generates the "write as you speak" sequence after n iterations.
+
+  Args:
+    n: The number of iterations.
+
+  Returns:
+    A string representing the sequence after n iterations.
+  """
+
+  if n == 1:
+    return "1"
+
+  prev_seq = writeAsYouSpeak(n - 1)
+  new_seq = ""
+  count = 1
+  for i in range(len(prev_seq)):
+    if i == len(prev_seq) - 1 or prev_seq[i] != prev_seq[i + 1]:
+      new_seq += str(count) + prev_seq[i]
+      count = 1
+    else:
+      count += 1
+
+  return new_seq
+
+
+def main():
+  """
+  Reads the input and prints the output.
+  """
+
+  num_test_cases = int(raw_input())
+  for i in range(num_test_cases):
+    n = int(raw_input())
+    print writeAsYouSpeak(n)
+
+
+if __name__ == "__main__":
+  main()
